@@ -1,0 +1,197 @@
+﻿@model IEnumerable<RegistrationManagmentSimplified.Models.Formando>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telemovel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataNascimento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NrDocumento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValidadeDocumento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Niss)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nif)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AreaCurso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AnoConclusao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstabelecimentoEnino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Certificado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Emprego)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UltimaProff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InicioProff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FimProff)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Morada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodPostal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Concelho)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empresa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstadoCivil)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Habilitacoes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nacionalidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Naturalidade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Subsidio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoDocumento)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telemovel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataNascimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NrDocumento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValidadeDocumento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Niss)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nif)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AreaCurso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AnoConclusao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstabelecimentoEnino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Certificado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Emprego)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UltimaProff)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InicioProff)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FimProff)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Morada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodPostal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Concelho.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empresa.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstadoCivil.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Habilitacoes.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nacionalidade.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Naturalidade.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Subsidio.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoDocumento.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

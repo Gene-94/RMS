@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/RegistrationManagmentSimplified.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">IEFP - barlavento</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                        <li>
+                            @Html.ActionLink("Coordeandores", "Index", "Coordenadores", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Formações", "Index", "Formacoes", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Formandos", "Index", "Formandos", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Empresas", "Index", "Empresas", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Inscrições", "Index", "Inscricoes", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Requisitos", "Index", "Requisitos", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Regimes de Horario", "Index", "RegimesHorarios", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Regimes de Presença", "Index", "RegimesPresencas", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Regimes de Estado Civil", "Index", "EstadosCivis", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Estados de Inscrição", "Index", "EstadosInscricao", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Opções de Habilitações", "Index", "Habilitacoes", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Opções de Número de Trabalhadores", "Index", "NrTrabalhadoresOpcoes", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Subsidios", "Index", "Subsidios", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                        <li>
+                            @Html.ActionLink("Tipos de Situação Profissional", "Index", "SitProfSubsidios", new { area = "" }, new { @class = "nav-link text-dark" })
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - IEFP Barlavento - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

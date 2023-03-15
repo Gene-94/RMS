@@ -1,0 +1,325 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RegistrationManagmentSimplified
+build_property.RootNamespace = RegistrationManagmentSimplified
+build_property.ProjectDir = C:\Users\yevhe\OneDrive\Documentos\Projetos\RegistrationManagmentSimplified\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\yevhe\OneDrive\Documentos\Projetos\RegistrationManagmentSimplified
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Coordenadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRlbmFkb3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Coordenadores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRlbmFkb3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Coordenadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRlbmFkb3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Coordenadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRlbmFkb3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Coordenadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRlbmFkb3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Empresas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Empresas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Empresas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Empresas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Empresas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosCivis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0NpdmlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosCivis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0NpdmlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosCivis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0NpdmlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosCivis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0NpdmlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosCivis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0NpdmlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosInscricao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0luc2NyaWNhb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosInscricao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0luc2NyaWNhb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosInscricao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0luc2NyaWNhb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosInscricao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0luc2NyaWNhb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/EstadosInscricao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0YWRvc0luc2NyaWNhb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formacoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formacoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formacoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formacoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formacoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFjb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formandos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFuZG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formandos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFuZG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formandos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFuZG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formandos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFuZG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Formandos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybWFuZG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Habilitacoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpdGFjb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Habilitacoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpdGFjb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Habilitacoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpdGFjb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Habilitacoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpdGFjb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Habilitacoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpdGFjb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Inscricoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpY29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Inscricoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpY29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Inscricoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpY29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Inscricoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpY29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Inscricoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zY3JpY29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/NrTrabalhadoresOpcoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnJUcmFiYWxoYWRvcmVzT3Bjb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/NrTrabalhadoresOpcoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnJUcmFiYWxoYWRvcmVzT3Bjb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/NrTrabalhadoresOpcoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnJUcmFiYWxoYWRvcmVzT3Bjb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/NrTrabalhadoresOpcoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnJUcmFiYWxoYWRvcmVzT3Bjb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/NrTrabalhadoresOpcoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTnJUcmFiYWxoYWRvcmVzT3Bjb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesHorarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc0hvcmFyaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesHorarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc0hvcmFyaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesHorarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc0hvcmFyaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesHorarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc0hvcmFyaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesHorarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc0hvcmFyaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesPresencas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1ByZXNlbmNhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesPresencas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1ByZXNlbmNhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesPresencas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1ByZXNlbmNhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesPresencas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1ByZXNlbmNhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/RegimesPresencas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW1lc1ByZXNlbmNhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Requisitos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaXRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Requisitos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaXRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Requisitos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaXRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Requisitos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaXRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Requisitos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaXRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/SitProfSubsidios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0UHJvZlN1YnNpZGlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/SitProfSubsidios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0UHJvZlN1YnNpZGlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/SitProfSubsidios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0UHJvZlN1YnNpZGlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/SitProfSubsidios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0UHJvZlN1YnNpZGlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/SitProfSubsidios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l0UHJvZlN1YnNpZGlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Subsidios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2lkaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Subsidios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2lkaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Subsidios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2lkaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Subsidios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2lkaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Subsidios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2lkaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yevhe/OneDrive/Documentos/Projetos/RegistrationManagmentSimplified/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-04tcyr788l
